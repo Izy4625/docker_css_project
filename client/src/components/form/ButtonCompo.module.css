@@ -1,0 +1,12 @@
+.buttondiv{
+    background-color: #DFE9DB;
+    width: 10%;
+    width:10%;
+    border-radius: 1%;
+    border: solid 1% #332f2f;
+
+
+}
+.active{
+    background-color: #28441d;
+}

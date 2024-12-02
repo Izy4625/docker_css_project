@@ -22,7 +22,7 @@ export interface CombatPreferences {
     name: string;
     personalNote: string;
     combatPreferences: CombatPreferences;
-    supportPreferences: SupportPreferences;
-    techPreferences: TechPreferences;
+    supportPreferences?: SupportPreferences;
+    techPreferences?: TechPreferences;
   
   }
